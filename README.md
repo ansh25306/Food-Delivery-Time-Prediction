@@ -34,18 +34,18 @@ Where:
 - Scikit-learn  
 
 
-_ _ _
+
 
 ## Output
-``` Predicted Delivery Time ≈ 30 minutes
-_ _ _
+Predicted Delivery Time ≈ 30 minute
+
 ## Applications
-``` 1. Food delivery platforms
+ 1. Food delivery platforms
  2. Logistics and courier services
  3. Route optimization systems
 
-_ _ _
+
 ## Advantages
-``` 1. Simple and easy to implement
+ 1. Simple and easy to implement
  2. Fast computation
  3. Good for linear data
