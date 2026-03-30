@@ -34,13 +34,13 @@ Where:
 - Scikit-learn  
 
 ##  Implementation
-python
+```python
 
 import numpy as np
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 
-# Dataset
+
 data = {
     'distance': [2, 5, 3, 8, 6],
     'prep_time': [10, 15, 12, 20, 18],
@@ -59,7 +59,7 @@ model.fit(X, y)
 prediction = model.predict([[4, 12, 2]])
 print("Predicted Delivery Time:", prediction)
 
-
+---
 
 ## Output
 Predicted Delivery Time ≈ 30 minute
