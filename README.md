@@ -61,15 +61,19 @@ model.fit(X, y)
 prediction = model.predict([[4, 12, 2]])
 print("Predicted Delivery Time:", prediction)
 
-## Output
+
+
+
+
+ ## Output
 
  Predicted Delivery Time ≈ 30 minutes
 
-## Applications
+ ## Applications
  1. Food delivery platforms
-2. Logistics and courier services
-3. Route optimization systems
-## Advantages
-1. Simple and easy to implement
-2. Fast computation
-3. Good for linear data
+ 2. Logistics and courier services
+ 3. Route optimization systems
+ ## Advantages
+ 1. Simple and easy to implement
+ 2. Fast computation
+ 3. Good for linear data
