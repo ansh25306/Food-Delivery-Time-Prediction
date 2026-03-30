@@ -64,8 +64,7 @@ print("Predicted Delivery Time:", prediction)
 _ _ _
 
 ## Output
-
- Predicted Delivery Time ≈ 30 minutes
+``` Predicted Delivery Time ≈ 30 minutes
 _ _ _
 ## Applications
  1. Food delivery platforms
