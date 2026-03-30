@@ -42,7 +42,7 @@ import numpy as np
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 
-# Dataset
+
 data = {
     'distance': [2, 5, 3, 8, 6],
     'prep_time': [10, 15, 12, 20, 18],
@@ -61,19 +61,19 @@ model.fit(X, y)
 prediction = model.predict([[4, 12, 2]])
 print("Predicted Delivery Time:", prediction)
 
+_ _ _
 
-
-
-
- ## Output
+## Output
 
  Predicted Delivery Time ≈ 30 minutes
-
- ## Applications
+_ _ _
+## Applications
  1. Food delivery platforms
  2. Logistics and courier services
  3. Route optimization systems
- ## Advantages
+
+_ _ _
+## Advantages
  1. Simple and easy to implement
  2. Fast computation
  3. Good for linear data
