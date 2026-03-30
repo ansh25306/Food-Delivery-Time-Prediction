@@ -2,3 +2,8 @@ Problem Statement:
 
 Food delivery apps need to estimate delivery time accurately. 
 This project predicts delivery time based on factors like distance, traffic, and order preparation time.
+
+Objective
+1. Predict delivery time
+2. Improve customer experience
+3. Apply ML in real-world business
