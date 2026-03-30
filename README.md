@@ -63,10 +63,10 @@ print("Predicted Delivery Time:", prediction)
 
 ## Output
 
-Predicted Delivery Time ≈ 30 minutes
+ Predicted Delivery Time ≈ 30 minutes
 
 ## Applications
-1. Food delivery platforms
+ 1. Food delivery platforms
 2. Logistics and courier services
 3. Route optimization systems
 ## Advantages
